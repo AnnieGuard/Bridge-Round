@@ -24,7 +24,7 @@ From these pilots, we’ll generate **rare disease case studies** that will exte
 - **UK HQ established** – AnnieGuard Ltd incorporated and banked in the UK  
 - **NHS ecosystem access** – Engaged with **Health Innovation Manchester** and member of **ABHI**, the UK’s leading HealthTech trade association  
 - **Procurement champion** – Supported by **Nick Allen (NHS)**, bringing deep procurement expertise  
-- **Traction underway** – Active discussions with **NHS Trusts**, plus interest from **Royal Marsden, Cleveland Clinic, and Aon**  
+- **Traction underway** – Active discussions with **NHS Trusts**, plus interest from **The Royal Marsden Sarcoma Unit and North East London Cancer Alliance**  
 - **Policy tailwinds** – The **UK Rare Diseases Framework (2021–2031)** prioritizes earlier diagnosis & equitable care — fully aligned with our mission  
 
 We are not exploring Europe — **we are already here, with structure, partnerships, and regulatory pathways in motion.**
@@ -36,7 +36,7 @@ We are not exploring Europe — **we are already here, with structure, partnersh
 This bridge round funds a focused sprint to **deliver NHS pilots with MenoSarc™ and convert traction into revenue.**
 
 **With this capital, we will:**  
-- Scale operations of **AnnieGuard Ltd** from our Glasgow base  
+- Scale operations of **AnnieGuard Ltd** from our UK base  
 - Deliver **2–3 NHS pilots** with Trust partners  
 - Advance **UKCA, MHRA, and DTAC compliance**  
 - Generate **£500K+ in pilot-driven pipeline**  
@@ -52,7 +52,7 @@ This bridge round funds a focused sprint to **deliver NHS pilots with MenoSarc�
 - **Discount**: 20% into next priced round  
 - **Check Size Range**: $50K–100K (3–6 angels)  
 
-This bridge provides the **runway to execute** our European market entry and pilot strategy — not founder lifestyle.  
+This bridge provides the **runway to execute** our European market entry and pilot strategy. 
 
 ---
 
@@ -60,7 +60,7 @@ This bridge provides the **runway to execute** our European market entry and pil
 
 - **First-mover in sarcoma risk detection (MenoSarc™)**  
 - **NHS commercialization ready** — UK incorporated, banked, ABHI member, NHS procurement partners engaged  
-- **Immediate traction** — in active dialogue with leading NHS Trusts, Royal Marsden, Cleveland Clinic, Aon  
+- **Immediate traction** — in active dialogue with leading NHS Trusts.
 - **Global platform vision** — NHS pilots in **sarcoma** generate case studies and validation to expand AnnieGuard into other rare diseases  
 - **Strong upside for early angels** — participate now at **$6–7M cap SAFE (20% discount)** with **pro-rata rights into Seed**  
 
