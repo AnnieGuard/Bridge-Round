@@ -67,5 +67,3 @@ We are moving fast. This is the moment to join.
 Founder & CEO – AnnieGuard  
 [tiara@annieguard.com](mailto:tiara@annieguard.com)  
 [www.annieguard.com](https://www.annieguard.com)
-📧 [tiara@annieguard.com](mailto:tiara@annieguard.com)  
-🌐 [www.annieguard.com](https://www.annieguard.com)  
