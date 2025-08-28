@@ -68,7 +68,6 @@ This bridge provides the **runway to execute** our European market entry and pil
 
 ## Materials
 
-- [Full Pitch Deck (30p PDF)](https://docsend.com/v/w42w4/menosarc)  
 - [MenoSarc™ – NHS Entry Brief](https://docsend.com/v/w42w4/menosarc-nhs) 
 
 ---
