@@ -46,11 +46,11 @@ This bridge round funds a focused sprint to **deliver NHS pilots with MenoSarc�
 
 ## Bridge Round Overview
 
-- Instrument: SAFE (post-money)
-- Raise: £240K GBP (~$300K USD)
-- Valuation Cap: £5M–£6M GBP (~$6M–$7M USD)
-- Discount: 20% into next priced round
-- Check Size Range: £40K–£80K GBP (~$50K–$100K USD)
+- **Instrument:** SAFE (post-money)
+- **Raise:** £240K GBP (~$300K USD)
+- **Valuation Cap:** £5M–£6M GBP (~$6M–$7M USD)
+- **Discount:** 20% into next priced round
+- **Check Size Range:** £40K–£80K GBP (~$50K–$100K USD)
 
 This bridge provides the **runway to execute** our European market entry and pilot strategy. 
 
