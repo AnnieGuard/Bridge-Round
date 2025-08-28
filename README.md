@@ -34,7 +34,7 @@ We are not another AI scraping old literature — we are building a **category-d
 ---
 
 ## Bridge Round Overview
-- **Instrument:** SAFE (U.S. standard)  
+- **Instrument:** SAFE 
 - **Raise:** **$300K USD** bridge round  
 - **Valuation Cap:** $6M–7M  
 - **Discount:** 20% into next priced round  
